@@ -1,0 +1,6 @@
+D:\c#\class time work\Animal behavior\Multitask-asynchronous\bin\Debug\Multitask-asynchronous.exe.config
+D:\c#\class time work\Animal behavior\Multitask-asynchronous\bin\Debug\Multitask-asynchronous.exe
+D:\c#\class time work\Animal behavior\Multitask-asynchronous\bin\Debug\Multitask-asynchronous.pdb
+D:\c#\class time work\Animal behavior\Multitask-asynchronous\obj\Debug\Multitask-asynchronous.csproj.CoreCompileInputs.cache
+D:\c#\class time work\Animal behavior\Multitask-asynchronous\obj\Debug\Multitask-asynchronous.exe
+D:\c#\class time work\Animal behavior\Multitask-asynchronous\obj\Debug\Multitask-asynchronous.pdb
